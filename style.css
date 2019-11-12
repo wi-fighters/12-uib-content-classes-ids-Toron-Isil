@@ -1,0 +1,19 @@
+html {
+  background-color: white;
+}
+
+#main-header {
+  background-color: violet;
+}
+
+.list-item {
+  color: blueviolet;
+}
+
+.heading {
+  color: red;
+}
+
+#dont-forget-header {
+  background-color: rgba(60, 110, 0, 0.7);
+}
